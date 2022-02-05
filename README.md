@@ -1,3 +1,6 @@
+## Description
+Created a component with a form inside which accepts a color. When the form is submitted, add a box to the set of boxes with the appropriate color. The boxes appear next to one another and wrap around if needed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
